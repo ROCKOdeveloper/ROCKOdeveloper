@@ -47,7 +47,7 @@ Ha estado presente desde prácticamente desde que comencé y pues no he necesita
 ```
 const titulo = document.querySelector('.text');
 titulo.addEventListener('click', () => {
-  alert('Haz clic');
+  alert('Haz hecho click');
 });
 
 ```
