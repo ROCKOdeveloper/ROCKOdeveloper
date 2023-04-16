@@ -61,4 +61,4 @@ titulo.addEventListener('click', () => {
 </p>
 
 
-> Cada momento del día debe ser una oportunidad para ser una mejores  - Rdeveloper
+> Cada momento del día debe ser una oportunidad para ser mejores  - Rdeveloper
