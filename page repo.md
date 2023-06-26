@@ -52,6 +52,4 @@ titulo.addEventListener('click', () => {
  <a href="https://stackoverflow.com/users/21374231/rdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cambiar" height="30" width="40" /></a>
 </p>
 
-
 > Cada momento del día debe ser una oportunidad para ser una mejores  - Rdeveloper
-
