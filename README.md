@@ -4,8 +4,6 @@ Soy un desarrollador autodidacta con una inconmensurable pasión por el aprendiz
 
 ## _Este es un poco de mi_
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ROCKOdeveloper&repo=Mini-proyects&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROCKOdeveloper&langs_count=7&layout=compact&locale=es)](https://github.com/ROCKOdeveloper)
 
 ### Conéctate conmigo
@@ -19,4 +17,4 @@ Soy un desarrollador autodidacta con una inconmensurable pasión por el aprendiz
 
 ---
 
-> Aprovechemos cada instante del día como una ocasión para mejorar y superarnos. En cada momento se presenta la posibilidad de crecer y evolucionar. No desperdiciemos ninguno de estos momentos y busquemos siempre ser la mejor versión de nosotros mismos.
+> "Persiste en tu camino autodidacta, crea, aprende y conecta, porque cada línea de código te acerca a tus metas." - de mi, para mi.
