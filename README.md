@@ -1,4 +1,4 @@
-# ¡Hola! Aquí un poco sobre Rdeveloper.
+# ¡Hola! Aquí un poco sobre Rdeveloper
 
 Soy un desarrollador autodidacta y siento una pasión inmensa por seguir aprendiendo en este campo. Desde el año 2020 he estado estudiando y trabajando, y es realmente emocionante dedicarme a algo que me apasiona. GitHub es el sitio ideal para almacenar todo el código que quiero compartir, y para publicar lo que aprendo y la forma en que lo he aprendido.
 
