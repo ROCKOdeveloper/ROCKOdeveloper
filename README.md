@@ -1,19 +1,14 @@
-# Holla, soy Rdeveloper
+# ¡Hola! Aquí un poco sobre Rdeveloper.
 
-Soy un desarrollador autodidacta con una inconmensurable pasión por el aprendizaje en el mundo del desarrollo de software.
+Soy un desarrollador autodidacta y siento una pasión inmensa por seguir aprendiendo en este campo. Desde el año 2020 he estado estudiando y trabajando, y es realmente emocionante dedicarme a algo que me apasiona. GitHub es el sitio ideal para almacenar todo el código que quiero compartir, y para publicar lo que aprendo y la forma en que lo he aprendido.
 
-## _Este es un poco de mi_
+## _Estos son los lenguajes con lo que he manipulado_
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROCKOdeveloper&langs_count=7&layout=compact&locale=es)](https://github.com/ROCKOdeveloper)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROCKOdeveloper&langs_count=10&layout=donut&locale=es)](https://github.com/ROCKOdeveloper)
 
-### Conéctate conmigo
----
+### Conécta conmigo
 
-<p align="center">
- <a href="https://twitter.com/Rockodeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cambiar" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/rockodeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cambiar" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/21374231/rdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cambiar" height="30" width="40" /></a>
-</p>
+![Bento](https://global-uploads.webflow.com/6335b33630f88833a92915fc/63860225045ce50e33d20eb3_Logo.svg)
 
 ---
 
